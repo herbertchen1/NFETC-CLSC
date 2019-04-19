@@ -1,0 +1,6 @@
+tensorflow==1.6.0
+hyperopt
+gensim
+sklearn
+pandas
+

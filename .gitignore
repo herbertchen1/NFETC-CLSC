@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.swp
+utils/__pycache__/
+data/corpus/*
+data/glove*
+pkl/*
+prepkl/*
+output/*
+log/*
