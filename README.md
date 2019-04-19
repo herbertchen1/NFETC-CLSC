@@ -6,7 +6,7 @@ Paper accepted by NAACL-HLT 2019: [NFETC-CLSC]( https://arxiv.org/pdf/1904.06475
 
 ### Prerequisites
 - python 3.6.0
-- tensorflow >= r1.6.0
+- tensorflow == 1.6.0
 - hyperopt
 - gensim
 - sklearn
