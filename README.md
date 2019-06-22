@@ -47,14 +47,22 @@ Available `<number>` for clean data: `500, 1000, 1500, 2000, 2500` (You need to 
 If you found this codebase or our work useful, please cite:
 
 ```
-@inproceedings{Bo_Xiaotao_2019,
-Author = {Chen, Bo and Gu, Xiaotao and Hu, Yufeng
-and Tang, siliang and Hu, Guoping and Zhuang, Yueting and Ren, Xiang},
-Title = {{Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering
-}},
-Year = {2019},
-booktitle = {Proceedings of the 2019 Conference of the North American Chapter of
-the Association for Computational Linguistics: Human Language Technologies}
+@inproceedings{chen-etal-2019-improving,
+    title = "Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering",
+    author = "Chen, Bo  and
+      Gu, Xiaotao  and
+      Hu, Yufeng  and
+      Tang, Siliang  and
+      Hu, Guoping  and
+      Zhuang, Yueting  and
+      Ren, Xiang",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N19-1294",
+    pages = "2862--2872",
 }
 ```
 
